@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/delishes/static/css/main.fdc7fe16.css",
+    "main.js": "/delishes/static/js/main.1c4977e8.js",
+    "index.html": "/delishes/index.html",
+    "main.fdc7fe16.css.map": "/delishes/static/css/main.fdc7fe16.css.map",
+    "main.1c4977e8.js.map": "/delishes/static/js/main.1c4977e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc7fe16.css",
+    "static/js/main.1c4977e8.js"
+  ]
+}
