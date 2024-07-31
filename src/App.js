@@ -12,7 +12,7 @@ function App() {
 			<BrowserRouter>
 				<Nav>
 					<ImSpoonKnife />
-					<Logo to={'/'}>delicious</Logo>
+					<Logo to={'/delishes'}>delicious</Logo>
 				</Nav>
 				<Search />
 				<Category />
