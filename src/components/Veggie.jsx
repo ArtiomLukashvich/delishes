@@ -1,7 +1,7 @@
 import { Splide, SplideSlide } from '@splidejs/react-splide'
 import { useEffect, useState } from 'react'
-import { Card, Gradient, Wrapper } from './Popular'
 import { Link } from 'react-router-dom'
+import { Card, Gradient, Wrapper } from './Popular'
 
 function Veggie() {
 	const [veggie, setVeggie] = useState([])

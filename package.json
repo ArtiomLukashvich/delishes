@@ -1,7 +1,6 @@
 {
   "name": "delishes",
   "version": "0.1.0",
-  "homepage": "https://artiomlukashvich.github.io/delishes",
   "private": true,
   "dependencies": {
     "@splidejs/react-splide": "^0.7.5",

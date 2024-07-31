@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import styled from 'styled-components'
 import { GoSearch } from 'react-icons/go'
 import { useNavigate } from 'react-router-dom'
+import styled from 'styled-components'
 
 function Search() {
   const [search, setSearch] = useState('')
@@ -9,7 +9,7 @@ function Search() {
 
   const submitHandler = (e) => {
     e.preventDefault()
-    navigate('/searched/' + search)
+    navigate('/recipes/' + search)
   }
 
   return (
